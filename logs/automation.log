@@ -1,0 +1,310 @@
+02:15:33.341 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\crossBrowerTesting.xml
+
+02:16:27.993 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+02:17:02.473 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+02:19:33.409 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+02:21:27.122 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+02:22:50.326 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+02:28:47.722 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+02:29:10.812 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\test-output\testng-failed.xml
+
+02:34:56.838 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+02:35:49.175 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+02:36:47.004 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+02:39:44.097 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+21:59:50.539 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+22:00:56.516 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+22:46:59.587 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+22:47:51.626 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+22:51:53.972 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+22:58:47.049 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+23:01:06.919 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+23:04:06.155 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+23:04:37.052 [main] INFO  testCases.TC002_LoginTest - ........started Login Test Page.....
+23:04:40.124 [main] INFO  testCases.TC002_LoginTest - .......finished Login test page
+00:53:11.707 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+00:56:04.511 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+01:01:36.958 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+01:01:46.424 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+01:01:59.581 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+01:02:09.772 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+01:15:27.840 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+01:15:42.498 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+01:15:55.255 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+01:16:05.481 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+01:28:41.930 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:28:41.939 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+01:28:41.942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:28:41.943 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:28:41.944 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:28:41.945 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:28:41.947 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:28:41.947 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:28:41.959 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+01:28:41.992 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 32 ms.
+01:28:41.999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:28:41.999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:28:42.000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:28:42.000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:28:42.001 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:28:42.001 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:28:42.005 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:28:42.005 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:28:42.005 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:28:42.005 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:28:42.009 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:28:42.010 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:28:42.010 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:28:42.011 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:28:42.012 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+01:28:42.013 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:28:42.015 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:28:42.016 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:28:42.016 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:28:42.016 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:28:42.028 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\AppData\Local\Temp\testng-eclipse--1430670361\testng-customsuite.xml
+
+01:28:42.067 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+01:28:43.644 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3f4b840d: 154 ms
+01:28:43.688 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7186333e: 44 ms
+01:28:43.739 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@72e789cb: 51 ms
+01:28:43.882 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@75e710b: 142 ms
+01:28:43.894 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@29629fbb: 12 ms
+01:28:43.894 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@681adc8f: 0 ms
+01:42:34.257 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+01:42:48.442 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+01:43:05.033 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+01:43:15.273 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+01:49:58.804 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+01:50:07.640 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+01:50:21.807 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+01:50:21.819 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+01:50:21.856 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+01:58:14.673 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+02:12:10.027 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+02:12:30.973 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+02:12:49.955 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+02:13:06.300 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+02:18:02.868 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+02:18:27.743 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+02:18:42.670 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+02:18:57.271 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+02:18:57.278 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+02:21:50.322 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+02:22:03.117 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+02:22:15.287 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+02:22:23.772 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+02:24:14.960 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+02:24:34.168 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+02:24:54.987 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+02:25:10.265 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+02:25:10.280 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+02:31:33.142 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+02:31:44.863 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+02:32:00.092 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+02:32:15.932 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+02:32:21.335 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+13:13:11.925 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+13:13:29.180 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+13:13:40.249 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+13:13:55.337 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:13:55.344 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+13:14:44.627 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+13:14:52.082 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+13:15:04.508 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+13:15:14.677 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+13:18:09.688 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+13:18:17.835 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+13:18:24.422 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:18:24.422 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+13:18:39.293 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:18:39.300 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+13:24:10.471 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+13:24:21.364 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+13:24:34.473 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+13:24:46.509 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+13:25:39.262 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+13:25:49.027 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+13:25:55.657 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:25:55.662 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+13:26:10.399 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:26:10.408 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+13:52:26.173 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\groping.xml
+
+13:52:46.133 [main] INFO  testCases.TC002_LoginTest - ........started Login Test Page.....
+13:52:48.445 [main] INFO  testCases.TC002_LoginTest - .......finished Login test page
+13:53:44.245 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+13:53:44.260 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+13:53:44.263 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:44.263 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:44.264 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:44.265 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:44.265 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:44.266 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:44.275 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+13:53:44.294 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+13:53:44.296 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:44.298 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+13:53:44.298 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:44.298 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:44.300 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:44.300 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:44.304 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:44.305 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:44.305 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:44.305 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:44.310 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:44.310 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:44.310 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:44.310 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:44.313 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:44.313 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:44.316 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:44.316 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:44.316 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:44.316 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:44.339 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\AppData\Local\Temp\testng-eclipse-343505791\testng-customsuite.xml
+
+13:53:44.380 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+13:53:44.744 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@96897c8: 109 ms
+13:53:44.791 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@bc09d57: 47 ms
+13:53:44.806 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@28e8888d: 15 ms
+13:53:44.819 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@38fb50f8: 11 ms
+13:53:44.833 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@65be88ae: 12 ms
+13:53:44.833 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@62ade015: 0 ms
+13:56:23.729 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\groping.xml
+
+13:59:29.171 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\groping.xml
+
+14:00:40.696 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\groping.xml
+
+14:00:47.883 [main] INFO  testCases.TC002_LoginTest - ........started Login Test Page.....
+14:00:49.993 [main] INFO  testCases.TC002_LoginTest - .......finished Login test page
+17:23:18.050 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\groping.xml
+
+17:23:41.112 [main] INFO  testCases.TC002_LoginTest - ........started Login Test Page.....
+17:23:43.378 [main] INFO  testCases.TC002_LoginTest - .......finished Login test page
+17:30:45.053 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+17:30:59.792 [main] INFO  testCases.TC002_LoginTest - ........started Login Test Page.....
+17:31:02.965 [main] INFO  testCases.TC002_LoginTest - .......finished Login test page
+17:31:07.928 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+17:31:13.622 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:31:13.624 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+17:31:27.399 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:31:27.405 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+17:33:38.579 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+17:36:32.023 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+17:36:37.078 [main] INFO  testCases.TC001_AccountRegistrationTest - **** starting AccountRegistrationTest *****
+17:36:37.257 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on clickMyAccount link
+17:36:39.073 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on clickRegister link 
+17:36:39.075 [main] INFO  testCases.TC001_AccountRegistrationTest - providing Customer details
+17:36:40.825 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+17:38:44.326 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+17:38:50.895 [main] INFO  testCases.TC001_AccountRegistrationTest - **** starting AccountRegistrationTest *****
+17:38:51.210 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on clickMyAccount link
+17:38:52.323 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on clickRegister link 
+17:38:52.326 [main] INFO  testCases.TC001_AccountRegistrationTest - providing Customer details
+17:38:54.183 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+17:45:58.246 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\test-output\testng-failed.xml
+
+17:46:09.308 [main] INFO  testCases.TC001_AccountRegistrationTest - **** starting AccountRegistrationTest *****
+17:46:10.007 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on clickMyAccount link
+17:46:12.477 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on clickRegister link 
+17:46:12.535 [main] INFO  testCases.TC001_AccountRegistrationTest - providing Customer details
+17:46:17.428 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+17:47:36.084 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\master.xml
+
+17:49:09.486 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart121\test-output\testng-failed.xml
+
+17:49:18.840 [main] INFO  testCases.TC002_LoginTest - ........started Login Test Page.....
+17:49:21.750 [main] INFO  testCases.TC002_LoginTest - .......finished Login test page
